@@ -1,4 +1,4 @@
-﻿# Carlos Hernandez
+# Carlos Hernandez
 ### Senior Full Stack Developer — React.js • TypeScript • Node.js • GraphQL
 📍 **Montreal, QC, Canada (EST / UTC-5)** &nbsp;|&nbsp; 🌐 **[Portfolio & Case Studies](https://chernandezweb.github.io/portfolio-developer/)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/carlos-hernandez-726761157/)** &nbsp;|&nbsp; ✉️ **[chernandezweb@gmail.com](mailto:chernandezweb@gmail.com)**
 
@@ -14,7 +14,7 @@ Senior Full Stack Developer with **8+ years of experience** architecting, buildi
 ---
 
 ### 🛠️ Core Tech Stack
-- **Languages:** TypeScript, JavaScript (ES6+), SQL, HTML5, CSS3 / SCSS, Python, PHP
-- **Front-End & Mobile:** React.js (Hooks, Context, Redux), Next.js, Angular, Ionic (iOS / Android), Tailwind CSS, Responsive UI / WCAG
-- **Back-End & APIs:** Node.js, Express.js, GraphQL (Apollo), RESTful APIs, Microservices, JWT / OAuth2 / SSO, Custom CMS Architecture
-- **Databases, Cloud & DevOps:** PostgreSQL, MySQL, MongoDB, Git, GitHub Actions (CI/CD), Docker, Jest, Agile / Scrum
+- **Languages:** TypeScript, JavaScript, SQL, HTML / CSS, Python, PHP
+- **Front-End:** React.js, Next.js, Angular
+- **Back-End & APIs:** Node.js, Express.js, GraphQL, REST APIs, Custom CMS Architecture
+- **Databases & Tools:** PostgreSQL, MySQL, MongoDB, Git, Docker, CI/CD (GitHub Actions), Agile / Scrum
