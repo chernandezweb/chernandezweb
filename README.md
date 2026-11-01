@@ -16,5 +16,5 @@ Senior Full Stack Developer with **8+ years of experience** architecting, buildi
 ### 🛠️ Core Tech Stack
 - **Languages:** TypeScript, JavaScript, SQL, HTML / CSS, Python, PHP
 - **Front-End:** React.js, Next.js, Angular
-- **Back-End & APIs:** Node.js, Express.js, GraphQL, REST APIs, Custom CMS Architecture
+- **Back-End & APIs:** Node.js, GraphQL, REST APIs, Custom CMS Architecture
 - **Databases & Tools:** PostgreSQL, MySQL, MongoDB, Git, Docker, CI/CD (GitHub Actions), Agile / Scrum
